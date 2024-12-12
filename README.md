@@ -1,45 +1,46 @@
-# C-tut
+# Apna College - C Programming Tutorials
 
-Welcome to my **C-tut**! This is a collection of projects, implementations, and exercises inspired by online tutorials, YouTube videos, and books. It serves as a personal archive of my learning journey and showcases practical applications of concepts in various programming languages.
+This folder contains my personal notes and practice code from the Apna College YouTube channel tutorials. It is part of the broader **C-tut** repository, where I document and practice C programming concepts from various sources.
 
----
+## Contents
+- **Notes**: Key points and explanations from the videos.
+- **Practice Code**: Exercises and examples demonstrated in the tutorials.
+- **Challenges**: Additional problems and solutions inspired by the channel.
 
-## 📖 About This Repository
+## About Apna College
+[Apna College](https://www.youtube.com/@ApnaCollegeOfficial) is a popular YouTube channel offering friendly programming tutorials. This section focuses on their C programming series.
 
-This repository is designed to:
-- Document my progress as I explore new concepts in programming and technology.
-- Serve as a reference for revisiting concepts and implementations.
-- Provide a space for practicing and refining skills learned from tutorials and books.
-- Act as a showcase of my dedication to continuous learning.
+Playlist source : [Apna-college/C-programming](https://www.youtube.com/playlist?list=PLfqMhTWNBTe25HU2y-3Kx6MBsasawd61U)
+## Purpose
+To reinforce my understanding of C programming concepts through structured learning and hands-on practice.
 
----
+## Topics Covered
+- Basics of C Programming
+- Data Types and Variables
+- Control Flow (if-else, loops)
+- Functions
+- Arrays and Pointers
+- Strings
+- Structures
 
-## 🌟 Key Features
+## How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Suman0raj/C-tut.git
+   ```
+2. Navigate to the Apna College folder:
+   ```bash
+   cd C-tut/Apna_College
+   ```
+3. Explore the files and run the code examples.
 
-- **Structured Learning:** Each directory corresponds to a specific course, tutorial, or book.
-- **Well-Documented Code:** Every project includes comments and explanations for better understanding.
-- **Variety of Topics:** Covers a wide range of topics including algorithms, data structures, web development, and more.
-- **Resource Links:** References to the source material are included for context.
+  **_codep.c_ is for only practicing**
 
----
+## Acknowledgment
+Thanks to **Apna College** for their valuable tutorials and resources.
 
-## 📁 Repository Structure
+# Contact me
+- **bY:** [Vill-Fn](mailto:program.me.vill@gmail.com)
+- **Stackoverflow:** [Vill-Fn](https://stackoverflow.com/users/28395243/vill-fn)
 
-```plaintext
-├── Apna_college
-├── book
-├── Edureka
-├── Harry-Potter
-├── Jenny
-├── PW
-└── Wscube Tech
-```
-
-## Contact me
-
-## 📩 Contact Me
-
-- **Email:** [program.me.vill@gmail.com](mailto:program.me.vill@gmail.com)
-- **Stack Overflow:** [vill-fn](https://stackoverflow.com/users/28395243/vill-fn)
-
-**Online from 5:00PM**
+Happy Coding! 🎉
